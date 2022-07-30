@@ -1,0 +1,16 @@
+table{
+    border: dotted 3px black;
+}
+td{
+    border: solid 1px red;
+}
+th{
+    border: solid 2px blue;
+}
+.redgreen{
+    color: red;
+    background-color: green;
+}
+.center{
+    margin-left:550px auto;
+}
